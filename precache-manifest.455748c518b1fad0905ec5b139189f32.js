@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/tic_tac_toe/static/css/main.d315dc05.chunk.css"
   },
   {
-    "revision": "4f4a5eed3e50cc552516053bb3bddc23",
+    "revision": "ea2d8d92d9ab4049e777e2305bd6b1f0",
     "url": "/tic_tac_toe/index.html"
   }
 ];
